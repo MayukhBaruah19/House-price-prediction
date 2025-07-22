@@ -54,4 +54,4 @@ streamlit run main.py
 └── requirements.txt                       # Required packages
 ``` 
 # Contributors :
-- Mayukh Baruah
+- [Mayukh Baruah](https://www.linkedin.com/in/mayukh-baruah-528116290/)
