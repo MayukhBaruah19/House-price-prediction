@@ -1,6 +1,6 @@
 # House Price Prediction
 House price prediction is a machine learning task that involves estimating the selling price of residential properties based on various features such as location, size, number of rooms. It is a type of regression problem where the goal is to build a model that can learn from historical housing data and make accurate predictions on new, unseen data. This type of prediction is highly valuable in the real estate industry, helping buyers, sellers, investors, and financial institutions make informed decisions. By analyzing trends and relationships within the data, predictive models can provide insights into market behavior and support more efficient and data-driven property valuations.<br>
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHEB3tbZe60CSCP-c3UxESp2FPCjWdOvjFIQ&s)
+![image](https://www.appliedaicourse.com/blog/wp-content/uploads/2025/01/House-Price-Prediction-Using-Machine-Learning.png)
 
 # About this project
 This project aims to predict house
