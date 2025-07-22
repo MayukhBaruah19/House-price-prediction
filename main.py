@@ -5,14 +5,14 @@ import pandas as pd
 import pickle
 
 # Load the trained model
-with open('regression_model.pkl', "rb") as file:
+with open('artifacts/regression_model.pkl', "rb") as file:
     model = pickle.load(file)
 
 # Load the encoders and scaler
-with open('onehot_encoder_location.pkl', 'rb') as file:
+with open('artifacts/onehot_encoder_location.pkl', 'rb') as file:
     onehot_encoder_location = pickle.load(file)
 
-with open('scaler.pkl', 'rb') as file:
+with open('artifacts/scaler.pkl', 'rb') as file:
     scaler = pickle.load(file)
 
 # Streamlit app
