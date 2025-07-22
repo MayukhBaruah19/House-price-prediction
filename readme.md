@@ -42,13 +42,14 @@ streamlit run main.py
 # Project Structure
 ```Bash                    
 ├── notebooks/
-     ├──Data/
-          └── guwahati_house_price.csv    # Data       
-     └── Fraud_Detection_Model.ipynb      # Jupyter notebooks for model development
-├── artifacts/                            # .pkl files importent for the project 
-     └── onehot_encoder_location.pkl
-     └──regression_model.pkl
-     └── scaler.pkl
+|     ├──Fraud_Detection_Model.ipynb       # Jupyter notebooks for model development
+|     ├──Data/
+|          └── guwahati_house_price.csv    # Data       
+|            
+├── artifacts/                             # .pkl files importent for the project 
+|     └── onehot_encoder_location.pkl
+|     └──regression_model.pkl
+|     └── scaler.pkl
 ├──main.py                                 # Source code for GUI
 ├── README.md                              # Project documentation
 └── requirements.txt                       # Required packages
